@@ -1,4 +1,4 @@
-# SDL port by xerpi
+# SDL_image-Vita port by enrique.somolinos
 
 TARGET_LIB = libSDL2_image.a
 OBJS= IMG.o \
